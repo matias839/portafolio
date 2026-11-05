@@ -1,0 +1,6 @@
+                <article class="card">
+                    <h3 class="card-titulo">Curso / Certificación adicional</h3>
+                    <p class="card-subtitulo">Plataforma o Academia</p>
+                    <span class="card-periodo">Año o duración</span>
+                    <p class="card-descripcion">Tecnologías o herramientas aprendidas durante el curso.</p>
+                </article>
