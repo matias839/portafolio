@@ -7,7 +7,9 @@ Este repositorio contiene el código fuente de mi página web de **portafolio pe
 La página es un sitio web estático de una sola página (*single-page*) con navegación fluida que reúne toda mi información relevante organizada en distintas secciones:
 
 1. **Sobre mí**: Una presentación personal donde cuento quién soy, mi interés por la programación y la exploración de distintos lenguajes, mis pasatiempos y datos adicionales (ubicación e idiomas).
-2. **Estudios**: Detalle de mi formación académica secundaria con especialización en Informática en el *Centro Educativo Arquidiocesano Espíritu Santo* y las materias principales de la orientación.
+2. **Estudios**: Detalle de mi formación académica:
+   - **Título Secundario con especialización en Informática** en el *Centro Educativo Arquidiocesano Espíritu Santo* y las materias principales de la orientación.
+   - **Ingeniería en Sistemas de Información** en la *Universidad Tecnológica Nacional (UTN)* (2028 - 2033), abarcando materias como Sistemas de Información, Sistemas Operativos, Lenguajes de Programación, Matemática, Física, Química y Economía.
 3. **Experiencia**: Muestra de los proyectos en los que trabajo, destacando el desarrollo y mantenimiento de un **Gestor de tareas en lenguaje C** con arquitectura eficiente y gestión manual de memoria mediante punteros.
 4. **Habilidades**:
    - **Técnicas**: Desarrollo Fullstack (`HTML`, `CSS`, `JavaScript`), `C/C++`, `PHP`, y manejo de herramientas como `Git`, `GitHub`, `Antigravity IDE` y `Gemini AI`.
